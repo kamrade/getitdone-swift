@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4DF2979122B9155100895C0E /* GDGradient.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4DF2979022B9155100895C0E /* GDGradient.swift */; };
 		E8483A9022AF660200ECA5EB /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8483A8F22AF660200ECA5EB /* AppDelegate.swift */; };
 		E8483A9222AF660200ECA5EB /* WelcomeController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8483A9122AF660200ECA5EB /* WelcomeController.swift */; };
 		E8483A9822AF660200ECA5EB /* Getitdone.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = E8483A9622AF660200ECA5EB /* Getitdone.xcdatamodeld */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4DF2979022B9155100895C0E /* GDGradient.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GDGradient.swift; sourceTree = "<group>"; };
 		E8483A8C22AF660200ECA5EB /* Getitdone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Getitdone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E8483A8F22AF660200ECA5EB /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E8483A9122AF660200ECA5EB /* WelcomeController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WelcomeController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				E8483A9B22AF660400ECA5EB /* LaunchScreen.storyboard */,
 				E8483A9E22AF660400ECA5EB /* Info.plist */,
 				E8483A9622AF660200ECA5EB /* Getitdone.xcdatamodeld */,
+				4DF2979022B9155100895C0E /* GDGradient.swift */,
 			);
 			path = Getitdone;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				4DF2979122B9155100895C0E /* GDGradient.swift in Sources */,
 				E8483A9222AF660200ECA5EB /* WelcomeController.swift in Sources */,
 				E8483A9822AF660200ECA5EB /* Getitdone.xcdatamodeld in Sources */,
 				E8483A9022AF660200ECA5EB /* AppDelegate.swift in Sources */,
